@@ -30,13 +30,13 @@
     * Equal contribution &nbsp;&nbsp;
     ✉ Corresponding author
 </p>
-This is the official repository of **Articulat3D: Reconstructing Articulated Digital Twins From Monocular Videos with Geometric and Motion Constraints**. For more information, please visit our project page.
+<p>This is the official repository of <strong>Articulat3D: Reconstructing Articulated Digital Twins From Monocular Videos with Geometric and Motion Constraints</strong>. For more information, please visit our project page. </p>
 
 
 <p align="center">
   <img src="assets/pipeline.png" alt="Articulat3D teaser" width="95%">
 </p>
-## Acknowledgement
+<h2>Acknowledgement</h2>
 
 This code heavily used resources from [PARIS](https://github.com/3dlg-hcvc/paris), [Shape of Motion](https://github.com/vye16/shape-of-motion), [TAPIP3D](https://github.com/zbw001/TAPIP3D). We thank the authors for open-sourcing their awesome projects.
 
