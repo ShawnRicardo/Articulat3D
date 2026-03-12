@@ -34,4 +34,4 @@ results/
 *.npy
 *.zip
 *.tar
-*.gz
+*.gz.DS_Store
