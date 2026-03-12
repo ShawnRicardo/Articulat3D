@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data and checkpoints
+data/
+checkpoints/
+outputs/
+results/
+
+# Large files
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.zip
+*.tar
+*.gz
