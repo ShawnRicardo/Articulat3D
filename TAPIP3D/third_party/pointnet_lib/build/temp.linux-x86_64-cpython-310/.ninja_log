@@ -1,0 +1,10 @@
+# ninja log v7
+2	25413	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/sampling.o	2e6b8d6cf154c014
+1	25450	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/group_points.o	f2fda00be368c20a
+1	26158	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/interpolate.o	e693db628e1ad603
+0	26363	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/ball_query.o	748eff46b0a9c3bf
+0	41647	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/ball_query_gpu.o	c4790af40c21a039
+1	42019	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/group_points_gpu.o	91a2439ec9f5218f
+2	42362	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/interpolate_gpu.o	b16ac6a16023ec3f
+2	42825	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/sampling_gpu.o	14a3b5c7463b1317
+2	45448	1781853848907515792	/data/guolijun/AIProjects/Embodied-AI/Articulat3D0619/TAPIP3D/third_party/pointnet_lib/build/temp.linux-x86_64-cpython-310/src/pointnet2_api.o	4fc59e5fb5d5ac30

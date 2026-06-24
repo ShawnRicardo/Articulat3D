@@ -1,0 +1,22 @@
+# ninja log v5
+4	26911	1778349390065533057	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/rpe/relative_pos_encoding_cuda.o	3d0d9cdd08ceb73d
+1	29075	1778349392233533689	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/aggregation/aggregation_cuda.o	9dc27ba0eececde8
+2	30545	1778349393705534119	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/attention_v2/attention_cuda_v2.o	120f4012a3b99e92
+6	30857	1778349394017534210	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/subtraction/subtraction_cuda.o	b9f9836ea5c81865
+6	31257	1778349394413534325	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/sampling/sampling_cuda.o	6fa12fbac6b5687c
+3	31738	1778349394897534467	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/knnquery/knnquery_cuda.o	88ea690ec221d64f
+3	32109	1778349395269534576	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/grouping/grouping_cuda.o	7b544139bfd2e3e9
+3	32163	1778349395329534593	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/interpolation/interpolation_cuda.o	1101b855c08146a2
+5	32402	1778349395561534660	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/rpe_v2/relative_pos_encoding_cuda_v2.o	d8b8f49e202b6eb5
+1	33213	1778349396373534897	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/attention/attention_cuda.o	ef100825cbbe6933
+3	41091	1778349404245537194	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/interpolation/interpolation_cuda_kernel.o	7585b01196f3b1ef
+1	41215	1778349404361537228	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/grouping/grouping_cuda_kernel.o	aa4622a8fb47952f
+4	41627	1778349404785537352	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/knnquery/knnquery_cuda_kernel.o	29f7ec859a2024b8
+6	41801	1778349404957537401	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/sampling/sampling_cuda_kernel.o	840679dbc475183e
+2	42036	1778349405189537469	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/attention_v2/attention_cuda_kernel_v2.o	f4285535b5cbd25a
+2	42150	1778349405309537504	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/attention/attention_cuda_kernel.o	f302106eefad6780
+5	42282	1778349405437537542	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/rpe/relative_pos_encoding_cuda_kernel.o	f1391ac1dcab30e7
+1	43174	1778349406329537802	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/aggregation/aggregation_cuda_kernel.o	967192804e109473
+5	43296	1778349406413537826	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/rpe_v2/relative_pos_encoding_cuda_kernel_v2.o	59856c71f89eabd2
+7	45024	1778349408173538340	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/subtraction/subtraction_cuda_kernel.o	5096ea2ea8cb18ff
+4	52388	1778349415529540485	/data/guolijun/AIProjects/Embodied-AI/VideoArtGS/third_party/TAPIP3D/third_party/pointops2/build/temp.linux-x86_64-cpython-310/src/pointops_api.o	d1d636487adfe41e
